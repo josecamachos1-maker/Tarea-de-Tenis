@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b765ed64d1a2688e02bedcecb5294ff346ab5434",
     "author": "pochis",
     "commit": {
       "date": "2026-09-01T14:26:00.000Z",
       "message": "Feat: EL jugador 1 anota imprime 15-0",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/b765ed64d1a2688e02bedcecb5294ff346ab5434"
     },
     "stats": {
       "total": 17,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-01T14:27:59.000Z",
+      "message": "Feat: El jugador 1 puntea imprime 30-0",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }

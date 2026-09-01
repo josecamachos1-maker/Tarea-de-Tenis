@@ -10,6 +10,11 @@ function Tennis(j1, j2)
         j1 = 15
         j2 = 0
     }
+    if(j1 == 30 && j2 == 0)
+    {
+        j1 = 30
+        j2 = 0
+    }
   return j1 + "-" + j2;
 }
 

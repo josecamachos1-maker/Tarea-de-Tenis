@@ -102,9 +102,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b765ed64d1a2688e02bedcecb5294ff346ab5434",
     "commitName": "Feat: EL jugador 1 anota imprime 15-0",
     "commitTimestamp": 1788272761760,
     "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788272825864,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788272843112,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Feat: El jugador 1 puntea imprime 30-0",
+    "commitTimestamp": 1788272880143,
+    "testId": 2
   }
 ]

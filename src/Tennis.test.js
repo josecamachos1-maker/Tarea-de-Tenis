@@ -11,5 +11,10 @@ describe("tennis", () => {
     expect(Tennis(15,0)).toEqual( 15+"-"+0);
   });
 });
+describe("tennis", () => {
+  it("Deberia devolver 30-0", () => {
+    expect(Tennis(30,0)).toEqual( 30+"-"+0);
+  });
+});
 
 
