@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-01T14:18:19.000Z",
+      "message": "Feat: Empieza el marcador debe devolver Love-Love",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 58,
+      "additions": 44,
+      "deletions": 14,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
