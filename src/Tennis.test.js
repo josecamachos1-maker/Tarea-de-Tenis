@@ -6,4 +6,10 @@ describe("tennis", () => {
   });
 });
 
+describe("tennis", () => {
+  it("Deberia devolver 15-0", () => {
+    expect(Tennis(15,0)).toEqual( 15+"-"+0);
+  });
+});
+
 
