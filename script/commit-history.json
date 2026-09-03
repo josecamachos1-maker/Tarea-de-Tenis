@@ -532,12 +532,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "cb3580cf740d8d096958e7721f1dd84f6afd96d2",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T05:10:57.000Z",
       "message": "Feat: Ahora el primer j1 puede ganar d eforma normal",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/cb3580cf740d8d096958e7721f1dd84f6afd96d2"
     },
     "stats": {
       "total": 12,
@@ -547,6 +547,25 @@
     },
     "coverage": 100,
     "test_count": 26,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T05:12:02.000Z",
+      "message": "Feat: ahora el j2 puede ganar",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 12,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 27,
     "failed_tests": 0,
     "conclusion": "success"
   }

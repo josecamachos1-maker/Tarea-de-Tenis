@@ -832,9 +832,31 @@
     "testId": 28
   },
   {
-    "commitId": "HEAD",
+    "commitId": "cb3580cf740d8d096958e7721f1dd84f6afd96d2",
     "commitName": "Feat: Ahora el primer j1 puede ganar d eforma normal",
     "commitTimestamp": 1788412258671,
     "testId": 28
+  },
+  {
+    "numPassedTests": 26,
+    "failedTests": 1,
+    "numTotalTests": 27,
+    "timestamp": 1788412295297,
+    "success": false,
+    "testId": 29
+  },
+  {
+    "numPassedTests": 27,
+    "failedTests": 0,
+    "numTotalTests": 27,
+    "timestamp": 1788412309084,
+    "success": true,
+    "testId": 29
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Feat: ahora el j2 puede ganar",
+    "commitTimestamp": 1788412323684,
+    "testId": 29
   }
 ]

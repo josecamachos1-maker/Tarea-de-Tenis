@@ -68,6 +68,11 @@ class Tennis
         {
             Resultado = "Game for Player 1"
         }
+        else if(j2 >= 50 && j1 < 40)
+        {
+            Resultado = "Game for Player 2"
+        
+        }
         else if(j1 >= 40 && j2 >= 40)
         {
             if(j1 == j2)
