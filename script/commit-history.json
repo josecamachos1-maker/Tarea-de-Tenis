@@ -570,17 +570,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b0c4ff63afc75886f6e28f35a01a9cb204eee8dc",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T05:14:49.000Z",
       "message": "Verificando que el patron deuce se cumpla correctamente",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/b0c4ff63afc75886f6e28f35a01a9cb204eee8dc"
     },
     "stats": {
       "total": 23,
       "additions": 22,
       "deletions": 1,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 30,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T05:19:25.000Z",
+      "message": "Feat: ultima implementacion de presenter y html basico para que funcione la tarea larga",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 84,
+      "additions": 62,
+      "deletions": 22,
       "date": "2026-09-03"
     },
     "coverage": 100,

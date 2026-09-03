@@ -876,9 +876,15 @@
     "testId": 30
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b0c4ff63afc75886f6e28f35a01a9cb204eee8dc",
     "commitName": "Verificando que el patron deuce se cumpla correctamente",
     "commitTimestamp": 1788412490127,
     "testId": 30
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Feat: ultima implementacion de presenter y html basico para que funcione la tarea larga",
+    "commitTimestamp": 1788412766310,
+    "testId": 31
   }
 ]
