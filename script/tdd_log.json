@@ -530,9 +530,31 @@
     "testId": 15
   },
   {
-    "commitId": "HEAD",
+    "commitId": "2b254d4c0eb2a1a97fd0e6634880517af1776225",
     "commitName": "feat: si el j1 anota y el j2 dos veces devuelve 15-30",
     "commitTimestamp": 1788410696887,
     "testId": 15
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 1,
+    "numTotalTests": 15,
+    "timestamp": 1788410738871,
+    "success": false,
+    "testId": 16
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 0,
+    "numTotalTests": 15,
+    "timestamp": 1788410747946,
+    "success": true,
+    "testId": 16
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Cuando el j1 anota un punto y el j2 3 devuelve 15-40",
+    "commitTimestamp": 1788410790984,
+    "testId": 16
   }
 ]
