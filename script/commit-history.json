@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8eb94cde0051d2715efb325be190ba09ff3edbb6",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T04:23:07.000Z",
       "message": "fix: Arreglo para que los tests de Tennis.test puedan fallar",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/8eb94cde0051d2715efb325be190ba09ff3edbb6"
     },
     "stats": {
       "total": 21,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T04:24:44.000Z",
+      "message": "Feat: SI ambos jugadores anotan al principio tienen 15-15",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 10,
+      "deletions": 2,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
