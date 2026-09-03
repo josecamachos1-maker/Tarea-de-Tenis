@@ -129,5 +129,12 @@ describe("tennis", () => {
     expect(tennis.score(40,60)).toEqual("Game for Player 2");
   });
 });
+describe("tennis", () => {
+  it("Deberia volver a Deuce", () => {
+    let tennis = new Tennis()
+
+    expect(tennis.score(50,50)).toEqual("Deuce");
+  });
+});
 
 

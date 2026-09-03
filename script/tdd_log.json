@@ -670,9 +670,31 @@
     "testId": 21
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8e0ced074fa12ff406b015e934f76dd9a4442df8",
     "commitName": "Feat: Ahora puedeganar el j2",
     "commitTimestamp": 1788411295770,
     "testId": 21
+  },
+  {
+    "numPassedTests": 20,
+    "failedTests": 1,
+    "numTotalTests": 21,
+    "timestamp": 1788411354930,
+    "success": false,
+    "testId": 22
+  },
+  {
+    "numPassedTests": 21,
+    "failedTests": 0,
+    "numTotalTests": 21,
+    "timestamp": 1788411361382,
+    "success": true,
+    "testId": 22
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Feat: ahora si j1 = 50 y j2 = 50 devuelve Deuce",
+    "commitTimestamp": 1788411382360,
+    "testId": 22
   }
 ]
