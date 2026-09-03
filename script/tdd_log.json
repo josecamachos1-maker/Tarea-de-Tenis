@@ -604,9 +604,31 @@
     "testId": 18
   },
   {
-    "commitId": "HEAD",
+    "commitId": "7efc60582afbfcd45069433f02e414b875aa4195",
     "commitName": "feat: devuelve ahora 40-Love",
     "commitTimestamp": 1788411011276,
     "testId": 18
+  },
+  {
+    "numPassedTests": 17,
+    "failedTests": 1,
+    "numTotalTests": 18,
+    "timestamp": 1788411056534,
+    "success": false,
+    "testId": 19
+  },
+  {
+    "numPassedTests": 18,
+    "failedTests": 0,
+    "numTotalTests": 18,
+    "timestamp": 1788411062531,
+    "success": true,
+    "testId": 19
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Feat: Ahora devuelve 40-15",
+    "commitTimestamp": 1788411091748,
+    "testId": 19
   }
 ]
