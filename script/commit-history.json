@@ -304,12 +304,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "7e6294de7b326a4c79416082ba54c0b9f81c65ff",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T04:46:30.000Z",
       "message": "Cuando el j1 anota un punto y el j2 3 devuelve 15-40",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/7e6294de7b326a4c79416082ba54c0b9f81c65ff"
     },
     "stats": {
       "total": 11,
@@ -319,6 +319,25 @@
     },
     "coverage": 100,
     "test_count": 15,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T04:47:57.000Z",
+      "message": "feat: Se agrego la opcion de devolver 30-40",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 12,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 16,
     "failed_tests": 0,
     "conclusion": "success"
   }
