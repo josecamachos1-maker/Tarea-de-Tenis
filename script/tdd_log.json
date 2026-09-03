@@ -210,9 +210,55 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "4803d7d964efa65fd52057a365669b45720fff89",
     "commitName": "fix: Volviendo a una clase la funcion Tennis, ajustando el parametro 0 a Love, arreglando Tennis.test para q reciba bien las respuestas de la nueva clase",
     "commitTimestamp": 1788408595744,
     "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1788409015143,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 5,
+    "numTotalTests": 5,
+    "timestamp": 1788409178361,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 5,
+    "numTotalTests": 5,
+    "timestamp": 1788409206207,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1788409315475,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788409361135,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: Arreglo para que los tests de Tennis.test puedan fallar",
+    "commitTimestamp": 1788409387976,
+    "testId": 4
   }
 ]

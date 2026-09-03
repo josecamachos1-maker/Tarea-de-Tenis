@@ -2,23 +2,23 @@ class Tennis
 {
     score(j1,j2)
     {
+        let Resultado
+
         if(j1 == 0 && j2 == 0)
         {
-            j1 = "Love"
-            j2 = "Love"
+            Resultado = "Love-Love"
         }
         else if(j1 == 15 && j2 == 0)
         {
-            j1 = 15
-            j2 = "Love"
+            Resultado = "15-Love"
         }
         else if(j1 == 30 && j2 == 0)
         {
-            j1 = 30
-            j2 = "Love"
+            Resultado = "30-Love"
         }
         
-        return j1 + "-" + j2
+
+        return Resultado
     }
 }
 

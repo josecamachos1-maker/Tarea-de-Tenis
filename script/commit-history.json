@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4803d7d964efa65fd52057a365669b45720fff89",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T04:09:54.000Z",
       "message": "fix: Volviendo a una clase la funcion Tennis, ajustando el parametro 0 a Love, arreglando Tennis.test para q reciba bien las respuestas de la nueva clase",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/4803d7d964efa65fd52057a365669b45720fff89"
     },
     "stats": {
       "total": 51,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T04:23:07.000Z",
+      "message": "fix: Arreglo para que los tests de Tennis.test puedan fallar",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 21,
+      "additions": 8,
+      "deletions": 13,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
