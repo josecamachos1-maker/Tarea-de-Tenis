@@ -736,9 +736,31 @@
     "testId": 24
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6e76e137b0986ec0928cf9e4c517f5cfa5774838",
     "commitName": "Feat: ahora si j1 = 50 y j2 es 60 devuelve Advantage Player 2",
     "commitTimestamp": 1788411559537,
     "testId": 24
+  },
+  {
+    "numPassedTests": 23,
+    "failedTests": 1,
+    "numTotalTests": 24,
+    "timestamp": 1788411615788,
+    "success": false,
+    "testId": 25
+  },
+  {
+    "numPassedTests": 24,
+    "failedTests": 0,
+    "numTotalTests": 24,
+    "timestamp": 1788411619348,
+    "success": true,
+    "testId": 25
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: ahora puede ganar el 1er jugador despues de los 2 deuce",
+    "commitTimestamp": 1788411643511,
+    "testId": 25
   }
 ]
