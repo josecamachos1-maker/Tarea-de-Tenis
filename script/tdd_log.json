@@ -434,9 +434,39 @@
     "testId": 11
   },
   {
-    "commitId": "HEAD",
+    "commitId": "0f70d2ba4746179aec8ba93a46cb8b3c73d91568",
     "commitName": "feat: se andio la posibilidad de que gane el jugador 1",
     "commitTimestamp": 1788410188592,
     "testId": 11
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 1,
+    "numTotalTests": 11,
+    "timestamp": 1788410380153,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 1,
+    "numTotalTests": 11,
+    "timestamp": 1788410390894,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1788410400331,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: si el jugador 2 anota primero devuelve Love-15",
+    "commitTimestamp": 1788410427922,
+    "testId": 12
   }
 ]
