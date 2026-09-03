@@ -574,9 +574,39 @@
     "testId": 17
   },
   {
-    "commitId": "HEAD",
+    "commitId": "9a574e9e6cd9cb40ad292d5e1421bf26bc9b5398",
     "commitName": "feat: Se agrego la opcion de devolver 30-40",
     "commitTimestamp": 1788410877965,
     "testId": 17
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 1,
+    "numTotalTests": 17,
+    "timestamp": 1788410950824,
+    "success": false,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 1,
+    "numTotalTests": 17,
+    "timestamp": 1788410958349,
+    "success": false,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 17,
+    "failedTests": 0,
+    "numTotalTests": 17,
+    "timestamp": 1788410978300,
+    "success": true,
+    "testId": 18
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: devuelve ahora 40-Love",
+    "commitTimestamp": 1788411011276,
+    "testId": 18
   }
 ]

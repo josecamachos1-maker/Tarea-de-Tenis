@@ -323,12 +323,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "9a574e9e6cd9cb40ad292d5e1421bf26bc9b5398",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T04:47:57.000Z",
       "message": "feat: Se agrego la opcion de devolver 30-40",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/9a574e9e6cd9cb40ad292d5e1421bf26bc9b5398"
     },
     "stats": {
       "total": 12,
@@ -338,6 +338,25 @@
     },
     "coverage": 100,
     "test_count": 16,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T04:50:10.000Z",
+      "message": "feat: devuelve ahora 40-Love",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 17,
     "failed_tests": 0,
     "conclusion": "success"
   }
