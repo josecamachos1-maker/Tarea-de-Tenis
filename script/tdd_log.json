@@ -390,9 +390,31 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "144f357bbb88b24f8d00280f133bd4f7b53881fc",
     "commitName": "feat: Se aniadio la posibilidad de que ambos jugadores tengan 40 es Deuce",
     "commitTimestamp": 1788409972168,
     "testId": 9
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1788410034405,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1788410043786,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Se aniadio la posibilidad de que el j1 tenga 50 pnts y el j2 tenga 40 y devuelva ADvantage Pllayer 1",
+    "commitTimestamp": 1788410084277,
+    "testId": 10
   }
 ]
