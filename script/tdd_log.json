@@ -464,9 +464,31 @@
     "testId": 12
   },
   {
-    "commitId": "HEAD",
+    "commitId": "83ec6f29ee0de1f56f942e279edc8e050e40d657",
     "commitName": "feat: si el jugador 2 anota primero devuelve Love-15",
     "commitTimestamp": 1788410427922,
     "testId": 12
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 1,
+    "numTotalTests": 12,
+    "timestamp": 1788410492030,
+    "success": false,
+    "testId": 13
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1788410498181,
+    "success": true,
+    "testId": 13
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: si el j2 anota 2 puntos y el j1 nada devuelve Love-30",
+    "commitTimestamp": 1788410529485,
+    "testId": 13
   }
 ]

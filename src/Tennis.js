@@ -48,6 +48,11 @@ class Tennis
         {
             Resultado = "Love-15"
         }
+        else if(j1 == 0 && j2 == 30)
+        {
+            Resultado = "Love-30"
+        }
+
 
 
         return Resultado

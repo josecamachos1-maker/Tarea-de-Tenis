@@ -68,4 +68,10 @@ describe("tennis", () => {
     expect(tennis.score(0,15)).toEqual( "Love-15");
   });
 });
+describe("tennis", () => {
+  it("Deberia devolver Love-30", () => {
+    let tennis = new Tennis()
+    expect(tennis.score(0,30)).toEqual("Love-30");
+  });
+});
 

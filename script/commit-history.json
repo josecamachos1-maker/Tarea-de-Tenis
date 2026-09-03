@@ -228,12 +228,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "83ec6f29ee0de1f56f942e279edc8e050e40d657",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T04:40:27.000Z",
       "message": "feat: si el jugador 2 anota primero devuelve Love-15",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/83ec6f29ee0de1f56f942e279edc8e050e40d657"
     },
     "stats": {
       "total": 11,
@@ -243,6 +243,25 @@
     },
     "coverage": 100,
     "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T04:42:08.000Z",
+      "message": "feat: si el j2 anota 2 puntos y el j1 nada devuelve Love-30",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 12,
     "failed_tests": 0,
     "conclusion": "success"
   }
