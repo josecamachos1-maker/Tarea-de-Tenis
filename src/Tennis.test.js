@@ -136,5 +136,12 @@ describe("tennis", () => {
     expect(tennis.score(50,50)).toEqual("Deuce");
   });
 });
+describe("tennis", () => {
+  it("Deberia devolver Advantage Player 1 despues de Deuce", () => {
+    let tennis = new Tennis()
+
+    expect(tennis.score(60,50)).toEqual("Advantage Player 1");
+  });
+});
 
 

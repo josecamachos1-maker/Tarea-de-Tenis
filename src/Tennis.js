@@ -88,6 +88,10 @@ class Tennis
         {
             Resultado = "Deuce"
         }
+        else if(j1 == 60 && j2 == 50)
+        {
+            Resultado = "Advantage Player 1"
+        }
         
         return Resultado
     }

@@ -692,9 +692,31 @@
     "testId": 22
   },
   {
-    "commitId": "HEAD",
+    "commitId": "06de4dbf63f42376b3c0c528bf697abcea2ebcbd",
     "commitName": "Feat: ahora si j1 = 50 y j2 = 50 devuelve Deuce",
     "commitTimestamp": 1788411382360,
     "testId": 22
+  },
+  {
+    "numPassedTests": 21,
+    "failedTests": 1,
+    "numTotalTests": 22,
+    "timestamp": 1788411448208,
+    "success": false,
+    "testId": 23
+  },
+  {
+    "numPassedTests": 22,
+    "failedTests": 0,
+    "numTotalTests": 22,
+    "timestamp": 1788411453364,
+    "success": true,
+    "testId": 23
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Feat: Ahora si j1 es 60 y j2 es 50 devuelve Advantage Player 1",
+    "commitTimestamp": 1788411485022,
+    "testId": 23
   }
 ]
