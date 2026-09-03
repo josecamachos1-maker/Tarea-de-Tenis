@@ -437,12 +437,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0a22460f45edb0fcd224ef30ebb348117b020f7a",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T04:58:04.000Z",
       "message": "Feat: Ahora si j1 es 60 y j2 es 50 devuelve Advantage Player 1",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/0a22460f45edb0fcd224ef30ebb348117b020f7a"
     },
     "stats": {
       "total": 11,
@@ -452,6 +452,25 @@
     },
     "coverage": 100,
     "test_count": 22,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T04:59:18.000Z",
+      "message": "Feat: ahora si j1 = 50 y j2 es 60 devuelve Advantage Player 2",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 23,
     "failed_tests": 0,
     "conclusion": "success"
   }

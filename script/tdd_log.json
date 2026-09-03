@@ -714,9 +714,31 @@
     "testId": 23
   },
   {
-    "commitId": "HEAD",
+    "commitId": "0a22460f45edb0fcd224ef30ebb348117b020f7a",
     "commitName": "Feat: Ahora si j1 es 60 y j2 es 50 devuelve Advantage Player 1",
     "commitTimestamp": 1788411485022,
     "testId": 23
+  },
+  {
+    "numPassedTests": 22,
+    "failedTests": 1,
+    "numTotalTests": 23,
+    "timestamp": 1788411525652,
+    "success": false,
+    "testId": 24
+  },
+  {
+    "numPassedTests": 23,
+    "failedTests": 0,
+    "numTotalTests": 23,
+    "timestamp": 1788411528675,
+    "success": true,
+    "testId": 24
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Feat: ahora si j1 = 50 y j2 es 60 devuelve Advantage Player 2",
+    "commitTimestamp": 1788411559537,
+    "testId": 24
   }
 ]
