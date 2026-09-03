@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "1bfc47dd56183273689e89616aa4998b9d49a8dd",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T04:29:12.000Z",
       "message": "Feat: Se aniadio la posibilidad de que el j1 tenga 30 y el j2 tenga 30",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/1bfc47dd56183273689e89616aa4998b9d49a8dd"
     },
     "stats": {
       "total": 11,
@@ -148,6 +148,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T04:30:56.000Z",
+      "message": "feat: Se aniadio la posibilidad de que el j1 tenga 40 pnts y el j2 30 pnts",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
