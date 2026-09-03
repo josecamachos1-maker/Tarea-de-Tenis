@@ -368,9 +368,31 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "51cfdba081d0d6f2d379c992e2cb8e18dcdee0d5",
     "commitName": "feat: Se aniadio la posibilidad de que el j1 tenga 40 pnts y el j2 30 pnts",
     "commitTimestamp": 1788409857528,
     "testId": 8
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1788409920316,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1788409930348,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Se aniadio la posibilidad de que ambos jugadores tengan 40 es Deuce",
+    "commitTimestamp": 1788409972168,
+    "testId": 9
   }
 ]

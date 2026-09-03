@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "51cfdba081d0d6f2d379c992e2cb8e18dcdee0d5",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T04:30:56.000Z",
       "message": "feat: Se aniadio la posibilidad de que el j1 tenga 40 pnts y el j2 30 pnts",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/51cfdba081d0d6f2d379c992e2cb8e18dcdee0d5"
     },
     "stats": {
       "total": 10,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T04:32:51.000Z",
+      "message": "feat: Se aniadio la posibilidad de que ambos jugadores tengan 40 es Deuce",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }
