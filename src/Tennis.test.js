@@ -32,4 +32,11 @@ describe("tennis", () => {
   });
 });
 
+describe("tennis", () => {
+  it("Deberia devolver 30-30", () => {
+    let tennis = new Tennis()
+    expect(tennis.score(30,30)).toEqual( "30-30");
+  });
+});
+
 

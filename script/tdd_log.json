@@ -324,9 +324,31 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "27750f9adb6a5103e7d6fc7ac649f925afcbcfc3",
     "commitName": "feat: Se aniadio la posibilidad de que el j1 tenga 30 pnts y el j2 15 pnts",
     "commitTimestamp": 1788409668331,
     "testId": 6
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1788409716593,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1788409722232,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Feat: Se aniadio la posibilidad de que el j1 tenga 30 y el j2 tenga 30",
+    "commitTimestamp": 1788409753126,
+    "testId": 7
   }
 ]
