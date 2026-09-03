@@ -551,12 +551,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "02924aa9fdbdb15a3f7d92583467c3f0c2c85ea8",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T05:12:02.000Z",
       "message": "Feat: ahora el j2 puede ganar",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/02924aa9fdbdb15a3f7d92583467c3f0c2c85ea8"
     },
     "stats": {
       "total": 12,
@@ -566,6 +566,25 @@
     },
     "coverage": 100,
     "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T05:14:49.000Z",
+      "message": "Verificando que el patron deuce se cumpla correctamente",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 23,
+      "additions": 22,
+      "deletions": 1,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 30,
     "failed_tests": 0,
     "conclusion": "success"
   }

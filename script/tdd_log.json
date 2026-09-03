@@ -854,9 +854,31 @@
     "testId": 29
   },
   {
-    "commitId": "HEAD",
+    "commitId": "02924aa9fdbdb15a3f7d92583467c3f0c2c85ea8",
     "commitName": "Feat: ahora el j2 puede ganar",
     "commitTimestamp": 1788412323684,
     "testId": 29
+  },
+  {
+    "numPassedTests": 28,
+    "failedTests": 0,
+    "numTotalTests": 28,
+    "timestamp": 1788412361386,
+    "success": true,
+    "testId": 30
+  },
+  {
+    "numPassedTests": 30,
+    "failedTests": 0,
+    "numTotalTests": 30,
+    "timestamp": 1788412467156,
+    "success": true,
+    "testId": 30
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Verificando que el patron deuce se cumpla correctamente",
+    "commitTimestamp": 1788412490127,
+    "testId": 30
   }
 ]

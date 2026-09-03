@@ -179,3 +179,24 @@ describe("tennis", () => {
     expect(tennis.score(30,50)).toEqual("Game for Player 2");
   });
 });
+describe("tennis", () => {
+  it("Deberia volver a Deuce varias veces", () => {
+    let tennis = new Tennis()
+
+    expect(tennis.score(60,60)).toEqual("Deuce");
+  });
+});
+describe("tennis", () => {
+  it("Deberia ganar jugador 1 despues de ventaja", () => {
+    let tennis = new Tennis()
+
+    expect(tennis.score(80,60)).toEqual("Game for Player 1")
+  })
+});
+describe("tennis", () => {
+  it("Deberia ganar jugador 2 despues de ventaja", () => {
+    let tennis = new Tennis()
+
+    expect(tennis.score(60,80)).toEqual("Game for Player 2")
+  })
+});
