@@ -780,9 +780,31 @@
     "testId": 26
   },
   {
-    "commitId": "HEAD",
+    "commitId": "fb4de2f227f830cf3637edea4318a1363386d6f4",
     "commitName": "Ahora el j2 puede ganar despues de 2 deuce",
     "commitTimestamp": 1788411708693,
     "testId": 26
+  },
+  {
+    "numPassedTests": 23,
+    "failedTests": 2,
+    "numTotalTests": 25,
+    "timestamp": 1788412104960,
+    "success": false,
+    "testId": 27
+  },
+  {
+    "numPassedTests": 25,
+    "failedTests": 0,
+    "numTotalTests": 25,
+    "timestamp": 1788412110395,
+    "success": true,
+    "testId": 27
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Fix: Arreglando patron de deuce para no hacer ifs infinitos",
+    "commitTimestamp": 1788412132864,
+    "testId": 27
   }
 ]

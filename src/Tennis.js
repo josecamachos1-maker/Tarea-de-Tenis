@@ -32,18 +32,6 @@ class Tennis
         {
             Resultado = "40-30"
         }
-        else if(j1 == 40 && j2 == 40)
-        {
-            Resultado = "Deuce"
-        }
-        else if(j1 == 50 && j2 == 40)
-        {
-            Resultado = "Advantage Player 1"
-        }
-        else if(j1 == 60 && j2 == 40)
-        {
-            Resultado = "Game for Player 1"
-        }
         else if(j1 == 0 && j2 == 15)
         {
             Resultado = "Love-15"
@@ -76,34 +64,31 @@ class Tennis
         {
             Resultado = "40-15"
         }
-        else if(j1 == 40 && j2 == 50)
+        else if(j1 >= 40 && j2 >= 40)
         {
-            Resultado = "Advantage Player 2"
+            if(j1 == j2)
+            {
+                Resultado = "Deuce"
+            }
+            else if(j1 == j2 + 10)
+            {
+                Resultado = "Advantage Player 1"
+            }
+            else if(j2 == j1 + 10)
+            {
+                Resultado = "Advantage Player 2"
+            }
+            else if(j1 >= j2 + 20)
+            {
+                Resultado = "Game for Player 1"
+            }
+            else if(j2 >= j1 + 20)
+            {
+                Resultado = "Game for Player 2"
+            }
         }
-        else if(j1 == 40 && j2 == 60)
-        {
-            Resultado = "Game for Player 2"
-        }
-        else if(j1 == 50 && j2 == 50)
-        {
-            Resultado = "Deuce"
-        }
-        else if(j1 == 60 && j2 == 50)
-        {
-            Resultado = "Advantage Player 1"
-        }
-        else if(j1 == 50 && j2 == 60)
-        {
-            Resultado = "Advantage Player 2"
-        }
-        else if(j1 == 70 && j2 == 50)
-        {
-            Resultado = "Game for Player 1"
-        }
-        else if(j1 == 50 && j2 == 70)
-        {
-            Resultado = "Game for Player 2"
-        }
+                        
+        
         
         return Resultado
     }
