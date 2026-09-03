@@ -266,12 +266,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "225c835f653415421e02d03bb3b3d6d0c0defa56",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T04:43:20.000Z",
       "message": "Feat: si el jugador 2 anota 3 pnts y el j1 nada da Love-40",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/225c835f653415421e02d03bb3b3d6d0c0defa56"
     },
     "stats": {
       "total": 12,
@@ -281,6 +281,25 @@
     },
     "coverage": 100,
     "test_count": 13,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T04:44:56.000Z",
+      "message": "feat: si el j1 anota y el j2 dos veces devuelve 15-30",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 12,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 14,
     "failed_tests": 0,
     "conclusion": "success"
   }
