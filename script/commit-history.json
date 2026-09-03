@@ -361,12 +361,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d72cb57720bc29722034dd2a75ce029980c8c811",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T04:51:30.000Z",
       "message": "Feat: Ahora devuelve 40-15",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/d72cb57720bc29722034dd2a75ce029980c8c811"
     },
     "stats": {
       "total": 10,
@@ -376,6 +376,25 @@
     },
     "coverage": 100,
     "test_count": 18,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T04:53:34.000Z",
+      "message": "Feat: Ahora devuelve Advantage Player 2",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 11,
+      "deletions": 2,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 19,
     "failed_tests": 0,
     "conclusion": "success"
   }
