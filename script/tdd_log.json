@@ -278,9 +278,55 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "566571093b01e35d4846133b97d0d259325e4d0a",
     "commitName": "Feat: SI ambos jugadores anotan al principio tienen 15-15",
     "commitTimestamp": 1788409485584,
     "testId": 5
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1788409574609,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1788409586243,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1788409592206,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1788409618882,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1788409626885,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Se aniadio la posibilidad de que el j1 tenga 30 pnts y el j2 15 pnts",
+    "commitTimestamp": 1788409668331,
+    "testId": 6
   }
 ]

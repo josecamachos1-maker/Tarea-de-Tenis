@@ -20,6 +20,11 @@ class Tennis
         {
             Resultado = "15-15"
         }
+        else if(j1 == 30 && j2 == 15)
+        {
+            Resultado = "30-15"
+        }
+
 
         return Resultado
     }
