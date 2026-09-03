@@ -475,12 +475,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a653c9b301a1d6c2017f21f815d8de71d1e3db89",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T05:00:42.000Z",
       "message": "feat: ahora puede ganar el 1er jugador despues de los 2 deuce",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/a653c9b301a1d6c2017f21f815d8de71d1e3db89"
     },
     "stats": {
       "total": 11,
@@ -490,6 +490,25 @@
     },
     "coverage": 100,
     "test_count": 24,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T05:01:47.000Z",
+      "message": "Ahora el j2 puede ganar despues de 2 deuce",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 25,
     "failed_tests": 0,
     "conclusion": "success"
   }

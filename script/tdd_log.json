@@ -758,9 +758,31 @@
     "testId": 25
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a653c9b301a1d6c2017f21f815d8de71d1e3db89",
     "commitName": "feat: ahora puede ganar el 1er jugador despues de los 2 deuce",
     "commitTimestamp": 1788411643511,
     "testId": 25
+  },
+  {
+    "numPassedTests": 24,
+    "failedTests": 1,
+    "numTotalTests": 25,
+    "timestamp": 1788411690239,
+    "success": false,
+    "testId": 26
+  },
+  {
+    "numPassedTests": 25,
+    "failedTests": 0,
+    "numTotalTests": 25,
+    "timestamp": 1788411693832,
+    "success": true,
+    "testId": 26
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Ahora el j2 puede ganar despues de 2 deuce",
+    "commitTimestamp": 1788411708693,
+    "testId": 26
   }
 ]

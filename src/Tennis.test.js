@@ -158,3 +158,10 @@ describe("tennis", () => {
     expect(tennis.score(70,50)).toEqual("Game for Player 1");
   });
 });
+describe("tennis", () => {
+  it("Deberia devolver Game for Player 2 despues de ventaja", () => {
+    let tennis = new Tennis()
+
+    expect(tennis.score(50,70)).toEqual("Game for Player 2");
+  });
+});
