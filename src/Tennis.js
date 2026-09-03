@@ -40,6 +40,10 @@ class Tennis
         {
             Resultado = "Advantage Player 1"
         }
+        else if(j1 == 60 && j2 == 40)
+        {
+            Resultado = "Game for Player 1"
+        }
 
 
         return Resultado

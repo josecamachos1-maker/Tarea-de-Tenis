@@ -412,9 +412,31 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "1a3821879d0324aa00ab6504b849d86ca421da2b",
     "commitName": "feat: Se aniadio la posibilidad de que el j1 tenga 50 pnts y el j2 tenga 40 y devuelva ADvantage Pllayer 1",
     "commitTimestamp": 1788410084277,
     "testId": 10
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 1,
+    "numTotalTests": 10,
+    "timestamp": 1788410149532,
+    "success": false,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1788410166637,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: se andio la posibilidad de que gane el jugador 1",
+    "commitTimestamp": 1788410188592,
+    "testId": 11
   }
 ]

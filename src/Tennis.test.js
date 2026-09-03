@@ -51,9 +51,15 @@ describe("tennis", () => {
   });
 });
 describe("tennis", () => {
-  it("Deberia devolver 50-40", () => {
+  it("Deberia devolver Advantage Player 1", () => {
     let tennis = new Tennis()
     expect(tennis.score(50,40)).toEqual( "Advantage Player 1");
+  });
+});
+describe("tennis", () => {
+  it("Deberia devolver Game for Player 1", () => {
+    let tennis = new Tennis()
+    expect(tennis.score(60,40)).toEqual( "Game for Player 1");
   });
 });
 

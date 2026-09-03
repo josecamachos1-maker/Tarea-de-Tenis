@@ -190,12 +190,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "1a3821879d0324aa00ab6504b849d86ca421da2b",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T04:34:43.000Z",
       "message": "feat: Se aniadio la posibilidad de que el j1 tenga 50 pnts y el j2 tenga 40 y devuelva ADvantage Pllayer 1",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/1a3821879d0324aa00ab6504b849d86ca421da2b"
     },
     "stats": {
       "total": 10,
@@ -205,6 +205,25 @@
     },
     "coverage": 100,
     "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T04:36:27.000Z",
+      "message": "feat: se andio la posibilidad de que gane el jugador 1",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 11,
+      "deletions": 1,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }
