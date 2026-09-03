@@ -648,9 +648,31 @@
     "testId": 20
   },
   {
-    "commitId": "HEAD",
+    "commitId": "946ba885a234415c28f497626b27e64540299c06",
     "commitName": "Feat: Ahora devuelve Advantage Player 2",
     "commitTimestamp": 1788411215370,
     "testId": 20
+  },
+  {
+    "numPassedTests": 19,
+    "failedTests": 1,
+    "numTotalTests": 20,
+    "timestamp": 1788411275009,
+    "success": false,
+    "testId": 21
+  },
+  {
+    "numPassedTests": 20,
+    "failedTests": 0,
+    "numTotalTests": 20,
+    "timestamp": 1788411279218,
+    "success": true,
+    "testId": 21
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Feat: Ahora puedeganar el j2",
+    "commitTimestamp": 1788411295770,
+    "testId": 21
   }
 ]
