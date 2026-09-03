@@ -802,9 +802,39 @@
     "testId": 27
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5be101a2f08ea3f712c6ffed936b052fea8457dd",
     "commitName": "Fix: Arreglando patron de deuce para no hacer ifs infinitos",
     "commitTimestamp": 1788412132864,
     "testId": 27
+  },
+  {
+    "numPassedTests": 25,
+    "failedTests": 1,
+    "numTotalTests": 26,
+    "timestamp": 1788412203001,
+    "success": false,
+    "testId": 28
+  },
+  {
+    "numPassedTests": 26,
+    "failedTests": 0,
+    "numTotalTests": 26,
+    "timestamp": 1788412213468,
+    "success": true,
+    "testId": 28
+  },
+  {
+    "numPassedTests": 26,
+    "failedTests": 0,
+    "numTotalTests": 26,
+    "timestamp": 1788412232588,
+    "success": true,
+    "testId": 28
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Feat: Ahora el primer j1 puede ganar d eforma normal",
+    "commitTimestamp": 1788412258671,
+    "testId": 28
   }
 ]

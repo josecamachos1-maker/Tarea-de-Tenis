@@ -513,12 +513,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5be101a2f08ea3f712c6ffed936b052fea8457dd",
     "author": "pochis",
     "commit": {
       "date": "2026-09-03T05:08:52.000Z",
       "message": "Fix: Arreglando patron de deuce para no hacer ifs infinitos",
-      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/5be101a2f08ea3f712c6ffed936b052fea8457dd"
     },
     "stats": {
       "total": 65,
@@ -528,6 +528,25 @@
     },
     "coverage": 100,
     "test_count": 25,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-09-03T05:10:57.000Z",
+      "message": "Feat: Ahora el primer j1 puede ganar d eforma normal",
+      "url": "https://github.com/josecamachos1-maker/Tarea-de-Tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 12,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 26,
     "failed_tests": 0,
     "conclusion": "success"
   }
